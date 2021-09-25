@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @pawan3091
-- 😌 You can call me pawanpreet
-- 👀 Interests - reading social sciences 
-- 🌱 I’m currently learning computational physics.
+- 👋 Hello there
 
 <!---
 pawan3091/pawan3091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
